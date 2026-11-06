@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-xorg__libxdmcp",
+  "canonical_upstream": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git",
+    "branch": "master",
+    "revision": "cd27f35c08cd8a7b14cef31d3edc021e638aab7f"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "396a6072787bcd2d518751a4bd1a33963e12fee0b29db8269cca49ad4d3a016d",
+  "tree_sha256": "610ec5b093eaf4782d236927d23dfc693eb3eae8b1a14ea57ac71fdffe678074"
+}
